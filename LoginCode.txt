@@ -1,0 +1,10 @@
+ask password;
+
+check user in Database;
+
+if user exists ;
+
+compare password;
+
+redirect to Profile Page;
+
