@@ -8,3 +8,5 @@ compare password;
 
 redirect to Profile Page;
 
+new feature Email;
+
