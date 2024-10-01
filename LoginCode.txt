@@ -9,5 +9,5 @@ compare password;
 redirect to Profile Page;
 
 new feature Email;
-
+new feature sms;
 new feature OTP Working fine;
