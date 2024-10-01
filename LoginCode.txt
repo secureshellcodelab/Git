@@ -8,3 +8,4 @@ compare password;
 
 redirect to Profile Page;
 
+new feature OTP Working fine;
