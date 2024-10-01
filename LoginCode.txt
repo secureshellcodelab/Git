@@ -10,3 +10,4 @@ redirect to Profile Page;
 
 new feature Email;
 
+new feature OTP Working fine;
